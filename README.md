@@ -66,6 +66,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditeya007&theme=dracula&hide_border=false" height="150" />
 </div>
 
+![snake animation](https://github.com/Aditeya007/Aditeya007/blob/output/snake.svg)
+
+
 
 ## 📫 Let's Connect
 
