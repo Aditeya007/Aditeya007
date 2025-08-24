@@ -1,27 +1,41 @@
-name: Update README with Private Stats
+name: Update README Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
-  workflow_dispatch: # Allow manual runs
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Stats in README
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Clone github-readme-stats
         run: |
-          echo "Updating README with GitHub Stats..."
-          # Replace placeholders in README
-          sed -i "s|TOKEN_PLACEHOLDER|${{ secrets.GH_STATS_TOKEN }}|g" README.md
+          git clone https://github.com/anuraghazra/github-readme-stats.git stats
+
+      - name: Generate Stats Images
+        run: |
+          cd stats
+          npm install
+          # Generate images using your token
+          node ./api/index.js --token ${{ secrets.GITHUB_TOKEN }} --username Aditeya007 --include_private true --output ../generated_stats
+
+      - name: Copy Generated Images
+        run: |
+          cp -r generated_stats/* .
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          git commit -m "Update README with latest GitHub stats"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update README stats" || echo "No changes"
           git push
