@@ -58,11 +58,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Aditeya007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" />
-  
-  <!-- Top Languages (with private repos using token via GitHub Actions) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditeya007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&count_private=true&token=${{ secrets.GH_STATS_TOKEN }}" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditeya007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
 </div>
 
 <div align="center">
@@ -71,14 +68,18 @@
 
 ![snake animation](https://github.com/Aditeya007/Aditeya007/blob/output/snake.svg)
 
+
+
 ## 📫 Let's Connect
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditeya-mitra-299520339)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditeyamitra.kol@gmail.com)
 
 </div>
+
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditeya007&color=blueviolet&style=flat-square&label=Profile+Views" />
