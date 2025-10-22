@@ -53,7 +53,7 @@
 - Data preprocessing and feature engineering
 - MLOps and model deployment strategies
 - Python libraries: scikit-learn, TensorFlow, PyTorch, Pandas, NumPy
-- Computer Vision techniques and applications
+
 
 ## 📊 GitHub Stats
 
