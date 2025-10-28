@@ -44,6 +44,7 @@
 
 - 📁 **Smart File Organizer** - Intelligent file organization system using ML algorithms
 - 🌐 **Advanced Web Monitor** - Web monitoring tool with real-time analysis capabilities
+- 🌐 **RAG** - A Rag system with administrative control(ongoing)
 
 ## 🌱 I'm currently learning
 
