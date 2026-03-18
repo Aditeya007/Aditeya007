@@ -21,9 +21,9 @@
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,c,git,java,mongodb,pandas,numpy,python,sklearn,sqlite,tensorflow&perline=6" />
-</p>
+</div>
 
 ---
 
@@ -50,9 +50,5 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aditeya007&color=blueviolet&style=flat-square&label=Profile+Views" />
-</div>
 
 ⭐️ From [Aditeya007](https://github.com/Aditeya007)
