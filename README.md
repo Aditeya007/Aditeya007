@@ -5,56 +5,27 @@
     </td>
     <td width="50%">
       <h2>👋 Hello, I'm Aditeya Mitra</h2>
-      <p>
-        💻 Aspiring Machine Learning Engineer <br>
-        📊 Passionate about AI, deep learning, and data science.<br>
-        🚀 Currently working on ML/DL projects and contributing to open source.<br>
-        🎯 Goal: Build intelligent systems that make life easier.<br>
-        🌱 Exploring Computer Vision and Natural Language Processing
-      </p>
+      <ul>
+        <li>💻 Aspiring Machine Learning Engineer</li>
+        <li>📊 Passionate about AI, deep learning, and data science.</li>
+        <li>🚀 Currently working on ML/DL projects and contributing to open source.</li>
+        <li>🎯 Goal: Build intelligent systems that make life easier.</li>
+        <li>🌱 Exploring Computer Vision and Natural Language Processing.</li>
+        <li>📫 Reach me at: <a href="mailto:aditeyamitra.kol@gmail.com">aditeyamitra.kol@gmail.com</a></li>
+      </ul>
     </td>
   </tr>
 </table>
 
+---
+
 ## 🛠️ Tech Stack
 
-<div align="left" style="margin-bottom: 30px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit-learn logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,c,git,java,mongodb,pandas,numpy,python,sklearn,sqlite,tensorflow&perline=6" />
+</p>
 
-## 🔭 Current Projects
-
-- 📁 **Smart File Organizer** - Intelligent file organization system using ML algorithms
-- 🌐 **Advanced Web Monitor** - Web monitoring tool with real-time analysis capabilities
-- 🌐 **RAG** - A Rag system with administrative control(ongoing)
-
-## 🌱 I'm currently learning
-
-- Machine Learning algorithms and workflows
-- Deep Learning architectures (CNNs, RNNs, Transformers)
-- Natural Language Processing (NLP)
-- Data preprocessing and feature engineering
-- MLOps and model deployment strategies
-- Python libraries: scikit-learn, TensorFlow, PyTorch, Pandas, NumPy
-
+---
 
 ## 📊 GitHub Stats
 
@@ -67,9 +38,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditeya007&theme=dracula&hide_border=false" height="150" />
 </div>
 
-![snake animation](https://github.com/Aditeya007/Aditeya007/blob/output/snake.svg)
-
-
+---
 
 ## 📫 Let's Connect
 
@@ -80,7 +49,7 @@
 
 </div>
 
-
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditeya007&color=blueviolet&style=flat-square&label=Profile+Views" />
