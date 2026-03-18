@@ -22,7 +22,10 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,c,git,java,mongodb,pandas,numpy,python,sklearn,sqlite,tensorflow&perline=6" />
+
+<img src="https://skillicons.dev/icons?i=aws,azure,c,git,java,mongodb" /><br><br>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,python,sklearn,sqlite,tensorflow" />
+
 </div>
 
 ---
